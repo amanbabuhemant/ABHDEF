@@ -1,3 +1,5 @@
+#Check the given string, number or list is palindrome or not.
+
 def is_palindrome(n: int):
     r = 0
     t = n
