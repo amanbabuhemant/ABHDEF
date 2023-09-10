@@ -18,7 +18,7 @@ def lower(s: str) -> str:
         s = s.replace(c,ul.get(c,c))
     return s
 
-def upper(s: str) -> str:
+def lower(s: str) -> str:
     for c in s:
         o = ord(c)
         if 64 < o < 90:
