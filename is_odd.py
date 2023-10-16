@@ -1,4 +1,9 @@
-#check the number is odd or not, return bool
+def is_odd(n: int) -> bool:
+    if n == 1:
+        return True
+    if n == 0:
+        return False
+    return is_odd(n-2)
 
 def is_odd(n: int) -> bool:
     return n % 2 == 1
