@@ -38,3 +38,4 @@ All the functions are written in python, and tested too but still if you find an
 | ncr                       | 2 |
 | encrypt_rot13             | 1 |
 | encrypt_caesar_cipher     | 1 |
+| encrypt_xor_cipher        | 1 |
