@@ -5,7 +5,7 @@ def factorial(n: int) -> int:
         return 1
     return factorial(n-1) * n
 
-def dfactorial(n: int) -> int:
+def factorial(n: int) -> int:
     f = 1
     while n:
         f *= n

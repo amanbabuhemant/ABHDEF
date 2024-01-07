@@ -3,6 +3,15 @@ def is_happy(n: int):
     while len(n) != 1:
         s = 0
         for d in n:
+            s += int(d)*int(d)
+        n = str(s)
+    return n in "17"
+
+def is_happy(n: int):
+    n = str(n)
+    while len(n) != 1:
+        s = 0
+        for d in n:
             s += int(d)**2
         n = str(s)
     return n in {"1", "7"}
