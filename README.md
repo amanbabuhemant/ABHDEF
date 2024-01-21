@@ -42,3 +42,5 @@ All the functions are written in python, and tested too but still if you find an
 | word_frequency            | 1 |
 | char_frequency            | 1 |
 | is_pangram                | 2 |
+| are_anagrams              | 3 |
+| is_isogram                | 2 |
