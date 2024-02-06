@@ -19,8 +19,8 @@ def is_consonant(char):
     return not char.lower() in vowels
 
 def is_consonant(char):
-    consonants = "bcdfghjklmnpqrstvwxyz"
-    return char.lower() in consonants
+    return not char.lower() in set("aeiou")
 
 def is_consonant(char):
-    return not char.lower() in set("aeiou")
+    consonants = "bcdfghjklmnpqrstvwxyz"
+    return char.lower() in consonants
