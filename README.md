@@ -46,3 +46,4 @@ All the functions are written in python, and tested too but still if you find an
 | is_isogram                | 2 |
 | is_vowel                  | 3 |
 | is_consonant              | 5 |
+| is_perfect_square         | 1 |
