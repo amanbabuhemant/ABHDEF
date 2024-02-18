@@ -1,6 +1,5 @@
 # ABHDEF
 This is a series of function which I started through my instagram account [@abh.py](https://www.instagram.com/abh.py) all the function of that series you can find in this repositry.
-
 All the functions are written in python, and tested too but still if you find any bug or you have a better approch for the function then feel free to open an issue.
 
 ## Hope You like my functions ;)
@@ -39,6 +38,7 @@ All the functions are written in python, and tested too but still if you find an
 | encrypt_rot13             | 1 |
 | encrypt_caesar_cipher     | 1 |
 | encrypt_xor_cipher        | 1 |
+| divisors                  | 2 |
 | word_frequency            | 1 |
 | char_frequency            | 1 |
 | is_pangram                | 2 |
@@ -47,3 +47,4 @@ All the functions are written in python, and tested too but still if you find an
 | is_vowel                  | 3 |
 | is_consonant              | 5 |
 | is_perfect_square         | 1 |
+| triangle_number           | 3 |
