@@ -35,4 +35,4 @@ TESTCCASES = [
         "return": True,
         "msg": "multiple words",
     },
-],
+]

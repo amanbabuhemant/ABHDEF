@@ -6,45 +6,46 @@ All the functions are written in python, and tested too but still if you find an
 
 ## Functions currently in ABHDEF
 
-| File/Function name| No. of Functions |
-|-------------------|------------------|
-| is_even                   | 4 | 
-| is_odd                    | 4 | 
-| is_plaindrome             | 5 | 
-| sum                       | 3 | 
-| factorial                 | 2 | 
-| len                       | 2 | 
-| average                   | 4 | 
-| digital_sum               | 2 | 
-| is_armstrong              | 2 | 
-| is_happy                  | 3 | 
-| sqrt                      | 4 | 
-| pow                       | 2 | 
-| cbrt                      | 1 | 
-| upper                     | 3 | 
-| lower                     | 3 | 
-| gcd                       | 2 | 
-| lcm                       | 3 | 
-| is_leap_year              | 1 | 
-| mean                      | 4 | 
-| roman_to_int              | 1 | 
-| median                    | 2 | 
-| mode                      | 1 | 
-| is_valid_email            | 1 | 
-| bmi                       | 1 | 
-| whr                       | 1 | 
-| npr                       | 2 |
-| ncr                       | 2 |
-| encrypt_rot13             | 1 |
-| encrypt_caesar_cipher     | 1 |
-| encrypt_xor_cipher        | 1 |
-| divisors                  | 2 |
-| word_frequency            | 1 |
-| char_frequency            | 1 |
-| is_pangram                | 2 |
-| are_anagrams              | 3 |
-| is_isogram                | 2 |
-| is_vowel                  | 3 |
-| is_consonant              | 5 |
-| is_perfect_square         | 1 |
-| triangle_number           | 3 |
+| File/Function name| No. of Functions | No. of Testcases |
+|-------------------|------------------|------------------|
+| is_even                   | 4 |                    | 8 |
+| is_odd                    | 4 |                    | 0 |
+| is_plaindrome             | 5 |                    | 0 |
+| sum                       | 3 |                    | 0 |
+| factorial                 | 2 |                    | 0 |
+| len                       | 2 |                    | 0 |
+| average                   | 4 |                    | 0 |
+| digital_sum               | 2 |                    | 0 |
+| is_armstrong              | 2 |                    | 0 |
+| is_happy                  | 3 |                    | 0 |
+| sqrt                      | 4 |                    | 0 |
+| pow                       | 2 |                    | 0 |
+| cbrt                      | 1 |                    | 0 |
+| upper                     | 3 |                    | 0 |
+| lower                     | 3 |                    | 0 |
+| gcd                       | 2 |                    | 0 |
+| lcm                       | 3 |                    | 0 |
+| is_leap_year              | 1 |                    | 0 |
+| mean                      | 4 |                    | 0 |
+| roman_to_int              | 1 |                    | 0 |
+| median                    | 2 |                    | 0 |
+| mode                      | 1 |                    | 0 |
+| is_valid_email            | 1 |                    | 0 |
+| bmi                       | 1 |                    | 0 |
+| whr                       | 1 |                    | 0 |
+| npr                       | 2 |                    | 0 |
+| ncr                       | 2 |                    | 0 |
+| encrypt_rot13             | 1 |                    | 0 |
+| encrypt_caesar_cipher     | 1 |                    | 0 |
+| encrypt_xor_cipher        | 1 |                    | 0 |
+| divisors                  | 2 |                    | 0 |
+| word_frequency            | 1 |                    | 0 |
+| char_frequency            | 1 |                    | 0 |
+| is_pangram                | 2 |                    | 0 |
+| are_anagrams              | 3 |                    | 6 |
+| is_isogram                | 2 |                    | 7 |
+| is_vowel                  | 3 |                    | 0 |
+| is_consonant              | 5 |                    | 9 |
+| is_perfect_square         | 1 |                    | 8 |
+| triangle_number           | 3 |                    | 0 |
+| is_prime                  | 3 |                    | 0 |
