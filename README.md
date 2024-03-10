@@ -49,3 +49,4 @@ All the functions are written in python, and tested too but still if you find an
 | is_perfect_square         | 1 |                    | 8 |
 | triangle_number           | 3 |                    | 0 |
 | is_prime                  | 3 |                    | 0 |
+||is_divisible_by           | 2 |                    | 0 |
